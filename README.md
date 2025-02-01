@@ -1,0 +1,3 @@
+# THE SIMPSONS CLOSE READ
+
+*The Simpsons* is one of America's most recognized and celebrated media masterpieces. Millions have tuned into the show since its release, making it the country's longest-running animated series, sitcom, and primetime TV series. Through satire and absurdity, *The Simpsons* offers an enduring critique of the age-old "American Dream," which we analyze closely in this close read of *<a href="https://www.imdb.com/title/tt0701294/" target="_blank">Who Shot Mr. Burns?</a>*

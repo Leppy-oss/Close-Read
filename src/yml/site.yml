@@ -1,0 +1,17 @@
+name: The Simpsons Close Read
+title: The Simpsons Close Read
+tagline: The Simpsons and the American Dream
+# description: Analyzing <i><a href="https://www.imdb.com/title/tt0701294/" target="_blank">Who Shot Mr. Burns?</a></i> as a nuanced critique of the American Dream.
+tags:
+  - blog
+  - simpsons
+  - jekyll
+  - close read
+show_hero: true
+menu:
+  - title: Home
+    url: /
+  - title: Close Read
+    url: /close-read
+  - title: About
+    url: /about
