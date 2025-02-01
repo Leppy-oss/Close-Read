@@ -6,14 +6,14 @@ title: About
 description: Some description.
 permalink: /about/
 ---
-
-<img class="img-rounded" src="/assets/img/uploads/profile.png" alt="Thomas A. Anderson" width="200">
-
 # About
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+<img src="/assets/img/slogo.png" alt="Episode Cover" width="100%" />
+
+> *The Simpsons* is one of America's most recognized and celebrated media masterpieces. Millions have tuned into the show since its release, making it the country's longest-running animated series, sitcom, and primetime TV series. Through satire and absurdity, *The Simpsons* offers an enduring critique of the age-old "American Dream," which we analyze in this close read of *<a href="https://www.imdb.com/title/tt0701294/" target="_blank">Who Shot Mr. Burns?</a>*
+
+⇒ Website by Ryan Xu  
+⇒ Analysis by Ryan Xu & Roshan Shivnani  
+⇒ For AMSTUD 2024-2025  
+⇒ Github source [here](https://github.com/Leppy-oss/Close-Read)  
+**Thank you for reading!**

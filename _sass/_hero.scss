@@ -68,6 +68,24 @@
       }
     }
 
+    a {
+      display: inline-block;
+      transition: all 0.3s ease;
+      text-decoration: none;
+      fill: darkgray;
+      color: darkgray;
+
+      &:hover {
+        fill: $themeColor;
+      }
+
+      &.creator:hover {
+        text-decoration: underline;
+        fill: lightgray;
+        color: lightgray;
+      }
+    }
+
     .buttons {
       margin-top: rem(50px);
     }

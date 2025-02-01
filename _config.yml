@@ -1,6 +1,6 @@
 # Site Settings
-name: The Simpsons Close Read
-title: The Simpsons Close Read
+name: Simpsons Close Read
+title: Simpsons Close Read
 tagline: The Simpsons and the American Dream
 # description: Analyzing <i><a href="https://www.imdb.com/title/tt0701294/" target="_blank">Who Shot Mr. Burns?</a></i> as a nuanced critique of the American Dream.
 tags:
@@ -12,31 +12,27 @@ show_hero: true
 menu:
   - title: Home
     url: /
-  - title: Close Read
-    url: /close-read
+  - title: Introduction
+    url: /introduction
+  - title: Rhetorical Analysis
+    url: /rhetorical-analysis
+  - title: Connections
+    url: /connections
+  - title: Conclusion
+    url: /conclusion
   - title: About
     url: /about
-
-# Social Media Settings
-# Remove the item if you don't need it
-github_username: github_username
-facebook_username: facebook_username
-twitter_username: twitter_username
-instagram_username: instagram_username
-linkedin_username: linkedin_username
-medium_username: medium_username
-
 
 # Posts Settings
 show_time_bar: true
 show_modal_on_exit: false
-show_modal_on_finish_post: true
+show_modal_on_finish_post: false
 two_columns_layout: true
 
 
 # Advanced Settings
 baseurl: "/Close-Read/" # the subpath of your site, e.g. /blog
-url: "https://github.com/Leppy-oss" # the base hostname & protocol for your site
+url: "https://leppy-oss.github.io" # the base hostname & protocol for your site
 google_analytics: "UA-XXXXXXXX-X"
 language: "en"
 categories_folder: category

@@ -1,10 +1,6 @@
 # Site Settings
 #=include site.yml
 
-# Social Media Settings
-# Remove the item if you don't need it
-#=include social.yml
-
 # Posts Settings
 #=include posts.yml
 

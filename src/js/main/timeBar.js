@@ -15,7 +15,7 @@
         var timeRemaining = timeBar.querySelector('.time-remaining');
 
         document.addEventListener('scroll', function () {
-            var scrollTop = window.pageYOffset || document.documentElement.scrollTop;
+            var scrollTop = window.scrollY || document.documentElement.scrollTop;
 
             if (scrollTop > lastScrollTop && shouldShow) {
                 timeBar.style.bottom = '0%';
@@ -23,8 +23,22 @@
                 timeBar.style.bottom = '-100%';
             }
 
-            if (scrollTop <= maxScrollTop) {
-                var percentage = scrollTop / maxScrollTop;
+            var percentage = Math.min(1, scrollTop / maxScrollTop + 0.15);
+            if (percentage >= 1) {
+                completed.style.width = '100%';
+                remaining.style.width = '0%';
+
+                var minutes = parseInt(timeBar.getAttribute('data-minutes'));
+                minutes = (minutes < 10) ? '0' + minutes : minutes;
+
+                timeCompleted.innerText = '00:00';
+                timeRemaining.innerText = minutes + ':00';
+
+                shouldShow = false;
+
+                triggerFinishedReading();
+            }
+            else {
 
                 var completedVal = (percentage * 100).toFixed(2);
                 var remainingVal = 100 - parseFloat(completedVal);
@@ -52,19 +66,6 @@
                 shouldShow = true;
 
                 triggerStillReading();
-            } else {
-                completed.style.width = '100%';
-                remaining.style.width = '0%';
-
-                var minutes = parseInt(timeBar.getAttribute('data-minutes'));
-                minutes = (minutes < 10) ? '0' + minutes : minutes;
-
-                timeCompleted.innerText = '00:00';
-                timeRemaining.innerText = minutes + ':00';
-
-                shouldShow = false;
-
-                triggerFinishedReading();
             }
 
             lastScrollTop = scrollTop;
