@@ -6,7 +6,7 @@ subtitle: The entire close read (rhetorical situation, analysis, comparison, con
 description: The entire close read (rhetorical situation, analysis, comparison, conclusion, and works cited) on one page for easy viewing and grading.
 image: https://i.imgur.com/jJODob9.png
 optimized_image: https://i.imgur.com/jJODob9.png
-category: Part 4
+category: PART 1-4
 author: rr
 ---
 
