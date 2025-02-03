@@ -3,8 +3,8 @@ date: 2025-02-01 9:00:00
 read_time: 10
 layout: post
 title: In-Depth Rhetorical Analysis
-subtitle: Closely interpreting the rhetorical strategies employed in Who Shot Mr. Burns? as they relate to the American Dream.
-description: Closely interpreting the rhetorical strategies employed in Who Shot Mr. Burns? as they relate to the American Dream.
+subtitle: Closely interpreting the rhetorical strategies employed in <i>Who Shot Mr. Burns?</i> as they relate to the American Dream.
+description: Closely interpreting the rhetorical strategies employed in <i>Who Shot Mr. Burns?</i> as they relate to the American Dream.
 image: https://assets.ltkcontent.com/images/173730/Examples-of-Rhetoric_27c5571306.jpg
 optimized_image: https://assets.ltkcontent.com/images/173730/Examples-of-Rhetoric_27c5571306.jpg
 category: Part 2
@@ -12,124 +12,77 @@ author: rr
 paginate: true
 ---
 
-Cas sociis natoque penatibus et magnis <a href="#">dis parturient montes</a>, nascetur ridiculus mus. *Aenean eu leo quam.* Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.
+## Scene of Interest: Mr. Burns Drills the Oil
+<figure class="vid-aspect" style="margin-top: -20px;">
+  <iframe frameborder="0" src="https://drive.google.com/file/d/1Y57l4USaWWVFT_BMLPetl5BYg2e-0aG0/preview" allow="autoplay"></iframe>
+</figure>
 
-> Curabitur blandit tempus porttitor. Nullam quis risus eget urna mollis ornare vel eu leo. Nullam id dolor id nibh ultricies vehicula ut id elit.
+<figcaption style="margin-top: 40px; font-size: smaller;">Disclaimer: All rights to <i>The Simpsons</i> and its episodes are owned by their respective copyright holders. U.S. copyright law permits limited use of copyrighted material without permission for purposes such as commentary, criticism, news reporting, teaching, scholarship, and research. For any copyright concerns, please contact the copyright holders directly.</figcaption>
 
-Etiam porta **sem malesuada magna** mollis euismod. Cras mattis consectetur purus sit amet fermentum. Aenean lacinia bibendum nulla sed consectetur.
+The scene analyzed in this close read runs from 8:31 to 12:45 of *Who Shot Mr. Burns?* and depicts the impact of Mr. Burns's slant drilling operations on Springfield Elementary's newfound oil reserves.
 
-## Inline HTML elements
+The full episode may also be accessed [here](https://drive.google.com/file/d/1pnnX8U6cvgev2nkOUCn6Idqp12KM6RjV/view?usp=sharing).
 
-HTML defines a long list of available inline tags, a complete list of which can be found on the [Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Web/HTML/Element).
+## Rhetorical Analysis
 
-- **To bold text**, use `<strong>`.
-- *To italicize text*, use `<em>`.
-- Abbreviations, like <abbr title="HyperText Markup Langage">HTML</abbr> should use `<abbr>`, with an optional `title` attribute for the full phrase.
-- Citations, like <cite>&mdash; Thomas A. Anderson</cite>, should use `<cite>`.
-- <del>Deleted</del> text should use `<del>` and <ins>inserted</ins> text should use `<ins>`.
-- Superscript <sup>text</sup> uses `<sup>` and subscript <sub>text</sub> uses `<sub>`.
+*Who Shot Mr. Burns?* employs a plethora of rhetorical strategies (**bolded**).<br>
 
-Most of these elements are styled by browsers with few modifications on our part.
+The scene's opening shot features a series of **close-ups**, **triumphant music**, and an intensifying **screen shake** to build anticipation for the opening of Springfield Elementary's first oil well. The crowd's **body language** imparts a sense of hope to the viewer: that these drops of oil have the potential to dramatically transform Springfield's commmunity.
 
-# Heading 1
+<figure style="margin-left: 20px; margin-right: 20px">
+  <img src="{{ '/assets/img/oil-drop.png' | prepend: site.baseurl }}" alt="Oil drop"/>
+  <figcaption><i>A lackluster drop of oil spouts from the Springfield Elementary oil well.</i></figcaption>
+</figure>
 
-## Heading 2
+The ensuing **subversion of expectations** - a single, lackluster drop of oil - is thus incredibly disappointing, compelling the viewer to pity the school and creating the beginnings of a critique of the American Dream. Of course, Springfield Elementary's failure to strike oil is made all the more wry by **dramatic irony**. Earlier scenes in the episode all but confirm that Mr. Burns, Springfield's greedy corporate mastermind, plans to steal the school's oil. So to an extent, and because it's *The Simpsons*, the viewer expects Springfield Elementary's drilling efforts to fail.
 
-### Heading 3
+<figure style="margin-left: 20px; margin-right: 20px">
+  <img src="{{ '/assets/img/burns-rig.png' | prepend: site.baseurl }}" alt="Mr. Burns drills"/>
+  <figcaption><i>In a buildup of dramatic irony, the viewer anticipates Mr. Burns to be the oil thief.</i></figcaption>
+</figure>
 
-#### Heading 4
+Its eventual occurrence further develops the idea that the school, which represents average Americans, was never in control of its future. Principal Skinner's promised prosperity, which **parallels** the prosperity promised by the American Dream, was destined to never come.
 
-Vivamus sagittis lacus vel augue rutrum faucibus dolor auctor. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Morbi leo risus, porta ac consectetur ac, vestibulum at eros.
+Following Mr. Burns's successful slant drilling operation, several moments of **absurdism** occur, including the total annihilation of Bart Simpson's treehouse.
 
-## Code
+<figure style="margin-left: 20px; margin-right: 20px">
+  <img src="{{ '/assets/img/absurdist-montage.png' | prepend: site.baseurl }}" alt="Absurdist montage"/>
+  <figcaption><i>From left to right: Bart's treehouse is annihilated, Moe's tavern is flooded with toxic fumes, and the Springfield Retirement Castle is torn in half.</i></figcaption>
+</figure>
 
-Cum sociis natoque penatibus et magnis dis `code element` montes, nascetur ridiculus mus.
+The massive destruction caused by Mr. Burns's drilling operations is clearly unrealistic (oil does not have a mind of its own), but it reinforces the overall message of the episode and the assertion of the close read; the destruction of the community's physical structures **symbolizes** the deeper societal effects of unchecked capitalism. It also involves a **shift** in the connotation and **imagery** of oil from black gold to destructive tar.
 
-```js
-// Example can be run directly in your JavaScript console
+At this point, the imagery of oil and Mr. Burns themselves warrant a closer read. Mr. Burns is a masterclass in **caricaturing**; he embodies America's corporate tycoons, such as Standard Oil founder John D. Rockefeller.
 
-// Create a function that takes two arguments and returns the sum of those arguments
-var adder = new Function("a", "b", "return a + b");
+<figure style="margin-left: 20px; margin-right: 20px">
+  <img src="https://hips.hearstapps.com/digitalspyuk.cdnds.net/16/40/1475575323-burns-real-life.jpg" alt="Mr. Burns & Rockefeller"/>
+  <figcaption><i>Mr. Burns is confirmed to be a caricature of John D. Rockefeller (right) and Fox founder Barry Diller (left).</i></figcaption>
+</figure>
 
-// Call the function
-adder(2, 6);
-// > 8
-```
+Rockefeller and other Gilded Age tycoons were commonly referred to as "robber barons" for their exploitative and unethical practices. Mr. Burns takes this  epithet to the next level by robbing literal children of their only ticket to a better future. The fact that Mr. Burns involves himself in oil drilling in *Who Shot Mr. Burns?* only strengthens his **allusion** to Rockefeller, which further emphasizes his role in the episode as a symbol of corporate greed. 
 
-Aenean lacinia bibendum nulla sed consectetur. Etiam porta sem malesuada magna mollis euismod. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa.
+Returning to the plot, Principal Skinner informs a dismayed faculty that the school has "no legal recourse against Mr. Burns" because "the oil belongs to whoever pumped it first."
 
-## Lists
+> "We've got no legal recourse against Mr. Burns' slant-drilling operation. The oil belongs to whoever pumped it first."
+>
+> <div style="text-align: right; font-size: large; color: gray; margin-top: 1rem;">— <a href="https://www.imdb.com/title/tt0701294/" target="_blank"><cite>Principal Skinner</cite></a></div>
 
-Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Aenean lacinia bibendum nulla sed consectetur. Etiam porta sem malesuada magna mollis euismod. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.
+Whether or not this is legally true, Skinner's statement puts the corporate takeover of community resources on full display.
 
-* Praesent commodo cursus magna, vel scelerisque nisl consectetur et.
-* Donec id elit non mi porta gravida at eget metus.
-* Nulla vitae elit libero, a pharetra augue.
+<figure style="margin-left: 20px; margin-right: 20px">
+  <img src="{{ '/assets/img/skinner-slant.png' | prepend: site.baseurl }}" alt="Principal Skinner meets with faculty"/>
+  <figcaption><i>Skinner's meeting with faculty exemplifies all that is wrong with capitalist America.</i></figcaption>
+</figure>
 
-Donec ullamcorper nulla non metus auctor fringilla. Nulla vitae elit libero, a pharetra augue.
+Integral to the American Dream is the idea that government non-intervention promotes individual prosperity. The **irony** in *Who Shot Mr. Burns?* (and in American society) is that that same non-intervention enables corporate exploitation and inequality, undermining the very prosperity it is trusted to uphold.
 
-1. Vestibulum id ligula porta felis euismod semper.
-2. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-3. Maecenas sed diam eget risus varius blandit sit amet non magna.
+The **situational irony** is almost comedically expanded as Skinner reveals that the school will have to cut its most prized programs, including music and maintenance, to pay for its now-useless oil rig. The wealth surplus promised by the discovery of oil has now turned into a deficit, all to line the pockets of Mr. Burns. Just as Springfield Elementary failed to benefit from its newfound resources, the American Dream is suggested to be similarly futile, if not destructive.
 
-Cras mattis consectetur purus sit amet fermentum. Sed posuere consectetur est at lobortis.
+The oil drilling scene from *Who Shot Mr. Burns?* concludes with Waylon Smithers, Mr. Burns's assistant, looking through a series of **panning shots**, which convey the destruction brought upon Springfield by Mr. Burns's greed. Yet when confronted by Smithers, Mr. Burns is apathetic to Springfield's suffering. He is so blinded by greed that he even has the audacity to remain unsatisfied.
 
-Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Nullam quis risus eget urna mollis ornare vel eu leo.
+<figure style="margin-left: 20px; margin-right: 20px">
+  <img src="{{ '/assets/img/smithers.png' | prepend: site.baseurl }}" alt="Smithers confronts Mr. Burns"/>
+  <figcaption><i>Smithers confronts an impassive Mr. Burns.</i></figcaption>
+</figure>
 
-## Images
-
-Quisque consequat sapien eget quam rhoncus, sit amet laoreet diam tempus. Aliquam aliquam metus erat, a pulvinar turpis suscipit at.
-
-![placeholder](https://placehold.it/800x400 "Large example image")
-![placeholder](https://placehold.it/400x200 "Medium example image")
-![placeholder](https://placehold.it/200x200 "Small example image")
-
-## Tables
-
-Aenean lacinia bibendum nulla sed consectetur. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-
-<table>
-  <thead>
-    <tr>
-      <th>Name</th>
-      <th>Upvotes</th>
-      <th>Downvotes</th>
-    </tr>
-  </thead>
-  <tfoot>
-    <tr>
-      <td>Totals</td>
-      <td>21</td>
-      <td>23</td>
-    </tr>
-  </tfoot>
-  <tbody>
-    <tr>
-      <td>Alice</td>
-      <td>10</td>
-      <td>11</td>
-    </tr>
-    <tr>
-      <td>Bob</td>
-      <td>4</td>
-      <td>3</td>
-    </tr>
-    <tr>
-      <td>Charlie</td>
-      <td>7</td>
-      <td>9</td>
-    </tr>
-  </tbody>
-</table>
-
-Nullam id dolor id nibh ultricies vehicula ut id elit. Sed posuere consectetur est at lobortis. Nullam quis risus eget urna mollis ornare vel eu leo.
-
-
-
-
-
-
-
-
-
-
+With his final words on-screen, Mr. Burns delivers one last rebuff to the American Dream. He has sunk Springfield's aspirations, ensuring that whatever hope its residents once held remains fleeting.

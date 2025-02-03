@@ -2,5 +2,6 @@
 {% capture posttime %}{{ include.date | date: "%s" }}{% endcapture %}
 {% if posttime > weekago %}
 <div class="new-post-tag">{{ site.translations.text.new_post | default: "New Post" }}</div>
+{% else %}
+<div class="new-post-tag">{{ site.translations.text.new_post | default: "Click for Quick View" }}</div>
 {% endif %}
-

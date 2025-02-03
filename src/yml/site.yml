@@ -19,5 +19,7 @@ menu:
     url: /connections
   - title: Conclusion
     url: /conclusion
+  - title: Unabridged (QUICK VIEW)
+    url: /unabridged
   - title: About
     url: /about

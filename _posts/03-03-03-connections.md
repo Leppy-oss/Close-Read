@@ -2,8 +2,8 @@
 date: 2025-02-01 8:00:00
 layout: post
 title: Connecting to <i>The Jungle</i> by Upton Sinclair
-subtitle: 'Connecting the perspective analyzed in Who Shot Mr. Burns? to another American classic: The Jungle by Upton Sinclair.'
-description: 'Connecting the perspective analyzed in Who Shot Mr. Burns? to another American classic: The Jungle by Upton Sinclair.'
+subtitle: 'Connecting the perspective analyzed in <i>Who Shot Mr. Burns?</i> to another American classic: <i>The Jungle</i> by Upton Sinclair.'
+description: 'Connecting the perspective analyzed in <i>Who Shot Mr. Burns?</i> to another American classic: <i>The Jungle</i> by Upton Sinclair.'
 image: https://usercontent.one/wp/www.theintellectualchaos.com/wp-content/uploads/2019/05/thejungleweb-1024x723.jpg
 optimized_image: https://usercontent.one/wp/www.theintellectualchaos.com/wp-content/uploads/2019/05/thejungleweb-1024x723.jpg
 category: Part 3
@@ -11,124 +11,23 @@ author: rr
 paginate: true
 ---
 
-Cas sociis natoque penatibus et magnis <a href="#">dis parturient montes</a>, nascetur ridiculus mus. *Aenean eu leo quam.* Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.
+*The Jungle* reveals shockingly similar perspectives to *Who Shot Mr. Burns?* in its polemical critique of unchecked capitalism and the futility of the American Dream.
 
-> Curabitur blandit tempus porttitor. Nullam quis risus eget urna mollis ornare vel eu leo. Nullam id dolor id nibh ultricies vehicula ut id elit.
+The hardships of Springfield’s residents in *The Simpsons* parallel those of new immigrants in *The Jungle*; both groups find themselves at the mercy of a ruthless system that prioritizes the interests of the wealthy elite (Mr. Burns in *The Simpsons*, Boss Connor in *The Jungle*). 
 
-Etiam porta **sem malesuada magna** mollis euismod. Cras mattis consectetur purus sit amet fermentum. Aenean lacinia bibendum nulla sed consectetur.
+<figure style="margin-left: 20px; margin-right: 20px">
+  <img src="{{ '/assets/img/capitalism.png' | prepend: site.baseurl }}" alt="Capitalism graphic" style="margin-top: -30px;"/>
+  <figcaption style="margin-top: -20px;">Both <i>The Simpsons</i> (left) and <i>The Jungle</i> (right) criticize capitalism and its blow to the American Dream.</figcaption>
+</figure>
 
-## Inline HTML elements
+The protagonists of both works - common, working-class citizens - feel disillusioned with their lack of agency over their own lives. In *The Jungle*, Jurgis Rudkus realizes (following the death of his wife and children) that his hopes of building a better life in America have been crushed by exploitation and despair; his life is literally drained as he loses his family and humanity. Similarly, in *Who Shot Mr. Burns?*, Springfield’s residents watch in horror as Mr. Burns’s unrivalled power and greed upends their sole hope for a better education; their lives are metaphorically drained as Mr. Burns pilfers their oil.
 
-HTML defines a long list of available inline tags, a complete list of which can be found on the [Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Web/HTML/Element).
+> "It will all be a monument to futility when my plan comes to fruition... It will be like taking candy from a baby."
+>
+> <div style="text-align: right; font-size: large; color: gray; margin-top: 1rem;">— <a href="https://www.imdb.com/title/tt0701294/" target="_blank">Mr. Burns, <i>Who Shot Mr. Burns?</i></a></div>
 
-- **To bold text**, use `<strong>`.
-- *To italicize text*, use `<em>`.
-- Abbreviations, like <abbr title="HyperText Markup Langage">HTML</abbr> should use `<abbr>`, with an optional `title` attribute for the full phrase.
-- Citations, like <cite>&mdash; Thomas A. Anderson</cite>, should use `<cite>`.
-- <del>Deleted</del> text should use `<del>` and <ins>inserted</ins> text should use `<ins>`.
-- Superscript <sup>text</sup> uses `<sup>` and subscript <sub>text</sub> uses `<sub>`.
+> "If we are the greatest nation the sun ever shone upon, it would seem to be mainly because we have been able to goad our wage-earners to this pitch of frenzy."
+>
+> <div style="text-align: right; font-size: large; color: gray; margin-top: 1rem;">— <a href="https://librarycollections.law.umn.edu/documents/darrow/The_Jungle_Upton_Sinclair.pdf" target="_blank">Upton Sinclair, <i>The Jungle</i></a></div>
 
-Most of these elements are styled by browsers with few modifications on our part.
-
-# Heading 1
-
-## Heading 2
-
-### Heading 3
-
-#### Heading 4
-
-Vivamus sagittis lacus vel augue rutrum faucibus dolor auctor. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Morbi leo risus, porta ac consectetur ac, vestibulum at eros.
-
-## Code
-
-Cum sociis natoque penatibus et magnis dis `code element` montes, nascetur ridiculus mus.
-
-```js
-// Example can be run directly in your JavaScript console
-
-// Create a function that takes two arguments and returns the sum of those arguments
-var adder = new Function("a", "b", "return a + b");
-
-// Call the function
-adder(2, 6);
-// > 8
-```
-
-Aenean lacinia bibendum nulla sed consectetur. Etiam porta sem malesuada magna mollis euismod. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa.
-
-## Lists
-
-Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Aenean lacinia bibendum nulla sed consectetur. Etiam porta sem malesuada magna mollis euismod. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.
-
-* Praesent commodo cursus magna, vel scelerisque nisl consectetur et.
-* Donec id elit non mi porta gravida at eget metus.
-* Nulla vitae elit libero, a pharetra augue.
-
-Donec ullamcorper nulla non metus auctor fringilla. Nulla vitae elit libero, a pharetra augue.
-
-1. Vestibulum id ligula porta felis euismod semper.
-2. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-3. Maecenas sed diam eget risus varius blandit sit amet non magna.
-
-Cras mattis consectetur purus sit amet fermentum. Sed posuere consectetur est at lobortis.
-
-Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Nullam quis risus eget urna mollis ornare vel eu leo.
-
-## Images
-
-Quisque consequat sapien eget quam rhoncus, sit amet laoreet diam tempus. Aliquam aliquam metus erat, a pulvinar turpis suscipit at.
-
-![placeholder](https://placehold.it/800x400 "Large example image")
-![placeholder](https://placehold.it/400x200 "Medium example image")
-![placeholder](https://placehold.it/200x200 "Small example image")
-
-## Tables
-
-Aenean lacinia bibendum nulla sed consectetur. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-
-<table>
-  <thead>
-    <tr>
-      <th>Name</th>
-      <th>Upvotes</th>
-      <th>Downvotes</th>
-    </tr>
-  </thead>
-  <tfoot>
-    <tr>
-      <td>Totals</td>
-      <td>21</td>
-      <td>23</td>
-    </tr>
-  </tfoot>
-  <tbody>
-    <tr>
-      <td>Alice</td>
-      <td>10</td>
-      <td>11</td>
-    </tr>
-    <tr>
-      <td>Bob</td>
-      <td>4</td>
-      <td>3</td>
-    </tr>
-    <tr>
-      <td>Charlie</td>
-      <td>7</td>
-      <td>9</td>
-    </tr>
-  </tbody>
-</table>
-
-Nullam id dolor id nibh ultricies vehicula ut id elit. Sed posuere consectetur est at lobortis. Nullam quis risus eget urna mollis ornare vel eu leo.
-
-
-
-
-
-
-
-
-
-
+Examining these quotes, it is clear that in both *Who Shot Mr. Burns* and *The Jungle*, laissez-faire capitalism enables the defeat of the working class, rebuking the American Dream and reaffirming the assertion that the prosperity it promises only applies to those in power.

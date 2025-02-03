@@ -17,13 +17,13 @@
         document.addEventListener('scroll', function () {
             var scrollTop = window.scrollY || document.documentElement.scrollTop;
 
-            if (scrollTop > lastScrollTop && shouldShow) {
+            if ((scrollTop > lastScrollTop || scrollTop > 100) && shouldShow) {
                 timeBar.style.bottom = '0%';
             } else {
                 timeBar.style.bottom = '-100%';
             }
 
-            var percentage = Math.min(1, scrollTop / maxScrollTop + 0.15);
+            var percentage = Math.min(1, 1.25 * scrollTop / maxScrollTop);
             if (percentage >= 1) {
                 completed.style.width = '100%';
                 remaining.style.width = '0%';
